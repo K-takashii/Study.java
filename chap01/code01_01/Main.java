@@ -1,4 +1,4 @@
-package code01_01;
+package chap01.code01_01;
 
 public class Main {
   public static void main(String[] args) {
