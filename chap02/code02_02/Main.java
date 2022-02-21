@@ -1,0 +1,9 @@
+package chap02.code02_02;
+
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("私の好きな記号は二重引用符（"）です");
+  }
+}
+
+/* "私の好きな記号は二重引用符（" この部分が文字列と見做されている。 */
